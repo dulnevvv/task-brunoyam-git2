@@ -1,2 +1,2 @@
 print("Hello Git")
-print("remote changes added")
+print("Profile logic")
